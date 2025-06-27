@@ -7,11 +7,11 @@ const Portfolio = () => (
         <div className="font-semibold text-blue-600">Switchboard</div>
         <div className="text-gray-600 text-sm mb-2">Remote Work Product of the Year</div>
         <div className="font-bold text-lg mt-4">Recent work</div>
-        <p className="text-gray-700 mb-2">We're talking "Product of the Year" good.</p>
+        <p className="text-gray-700 mb-2">We&apos;re talking &quot;Product of the Year&quot; good.</p>
         <a href="https://www.figma.com/proto/wbWTRa1jCey4uhInRAmH1r/Latest-Projects?page-id=0%3A1&type=design&node-id=906-2343&viewport=450%2C721%2C0.13&t=ZYPXbxSFD1m31WCi-1&scaling=min-zoom&mode=design" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline font-medium">See recent work</a>
       </div>
       <div className="flex-1 grid grid-cols-2 gap-4 mt-8 md:mt-0">
-        {['Web design','Logos','Slide decks','Branding','Social media','UI/UX design','Webflow development','Mobile apps','Print design','Email','Display ads','Icons','Brand guides','+ more'].map((service) => (
+        {["Web design","Logos","Slide decks","Branding","Social media","UI/UX design","Webflow development","Mobile apps","Print design","Email","Display ads","Icons","Brand guides","+ more"].map((service) => (
           <div key={service} className="bg-white rounded-lg shadow p-4 text-center text-gray-700 text-sm border border-gray-100">{service}</div>
         ))}
       </div>
