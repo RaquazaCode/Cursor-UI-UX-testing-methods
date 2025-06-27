@@ -8,8 +8,8 @@ const faqs = [
   "What programs do you design in?",
   "How does Webflow development work?",
   "How will I request designs?",
-  "What if I don't like the design?",
-  "Are there any requests you don't support?",
+  "What if I don&apos;t like the design?",
+  "Are there any requests you don&apos;t support?",
   "What if I only have a single request?",
   "Are there any refunds?",
   "Can I use Designjoy for just a month?"

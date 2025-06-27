@@ -1,11 +1,11 @@
 const steps = [
   {
     title: "Subscribe",
-    description: "Subscribe to a plan & request as many designs as you'd like."
+    description: "Subscribe to a plan &amp; request as many designs as you&apos;d like."
   },
   {
     title: "Request",
-    description: "Request whatever you'd like, from mobile apps to logos."
+    description: "Request whatever you&apos;d like, from mobile apps to logos."
   },
   {
     title: "Receive",
