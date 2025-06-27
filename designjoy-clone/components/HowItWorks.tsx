@@ -15,7 +15,7 @@ const steps = [
 
 const HowItWorks = () => (
   <section className="w-full max-w-5xl mx-auto py-16 px-4">
-    <h2 className="text-3xl font-bold mb-10 text-center">The way design should've been done in the first place</h2>
+    <h2 className="text-3xl font-bold mb-10 text-center">The way design should&apos;ve been done in the first place</h2>
     <div className="flex flex-col md:flex-row justify-center gap-8">
       {steps.map((step, i) => (
         <div key={step.title} className="flex-1 bg-white rounded-xl shadow p-8 flex flex-col items-center gap-4 border border-gray-100">
